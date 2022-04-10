@@ -359,6 +359,10 @@ a {
         margin: 0 auto;
         top: 30px;
     }
+
+    .dest-tab {
+       margin: 0;
+    }
     
     .image-dest {
         position: relative;
