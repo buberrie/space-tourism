@@ -430,6 +430,7 @@ a {
 
         .ul-nav {
             opacity: 0;
+            display: none;
             justify-content: start;
             flex-direction: column;
             position: fixed;
