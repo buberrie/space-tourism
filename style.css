@@ -48,10 +48,17 @@ body {
     position: relative;
     list-style: none;
     background-color: rgba(255, 255, 255, 4%);
-    backdrop-filter: blur(10px);
-    height: 80px;
-    width: 40em;
+    /*backdrop-filter: blur(10px);*/
+    height: 90px;
+    width: 45em;
     padding: 0 30px 0 10px;
+}
+
+@supports (backdrop-filter: blur(10px)) {
+.ul-nav {
+    background: rgba(255, 255, 255, 4%);
+    backdrop-filter: blur(10px);
+    }
 }
 
 .mobile-nav {
