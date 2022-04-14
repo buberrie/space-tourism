@@ -325,7 +325,7 @@ li:active {
        
     }
     
-@media (max-width: 550px) {
+@media (max-width: 650px) {
         body {
             background-image: url(./assets/home/background-home-mobile.jpg);
             position: absolute;
@@ -342,7 +342,7 @@ li:active {
         #logo {
             width: 40px;
             height: 40px;
-            margin-left: 30px;
+            margin-left: 25px;
             margin-top: 25px;
         }
         
@@ -405,7 +405,7 @@ li:active {
             display: block;
             position: absolute;
             top:  30px;
-            left: 85%;
+            left: 90%;
         }
 
         .open.active {
