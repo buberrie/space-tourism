@@ -429,7 +429,6 @@ a {
         }
 
         .ul-nav {
-            opacity: 0;
             display: none;
             justify-content: start;
             flex-direction: column;
@@ -473,7 +472,6 @@ a {
 
         .ul-nav.active {
             display: flex;
-            opacity: 1;
             transition: 500ms ease-in-out;
         }
 
