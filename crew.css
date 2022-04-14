@@ -661,11 +661,11 @@ a {
             top: 30px
             right: 0;
             width: 15em;
-            height: 16em;
+            height: 17em;
         }
         
         .under-line {
-            border-bottom: solid rgba(208, 214, 249, 0.2) 0.05px;
+            border-bottom: solid rgba(208, 214, 249, 0.2) 0.1px;
             width: 100%;
             position: relative;
             margin: 0 auto; 
