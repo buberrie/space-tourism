@@ -644,7 +644,7 @@ a {
         .img-crew {
             position: relative;
             width: 100%;
-            top: 20px;
+            top: 80px;
         }
 
         .crew-img {
@@ -658,8 +658,7 @@ a {
             display: block;
             margin: 0 auto;
             right: 0;
-            top: 30px;
-            max-width: 12em;
+            max-width: 13em;
             height: 16em;
         }
         
