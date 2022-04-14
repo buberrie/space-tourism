@@ -22,7 +22,7 @@ body {
 
 .nav-bar {
     display: flex;
-    margin: 50px 0;
+    margin: 45px 0;
 }
 
 #logo {
@@ -47,7 +47,7 @@ body {
     justify-content: space-evenly;
     position: relative;
     list-style: none;
-    background-color: rgba(255, 255, 255, 4%);
+    background-color: rgba(255, 255, 255, 5%);
     /*backdrop-filter: blur(10px);*/
     height: 90px;
     width: 45em;
