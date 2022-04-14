@@ -22,7 +22,7 @@ body {
 
 .nav-bar {
     display: flex;
-    margin: 30px 0;
+    margin: 50px 0;
 }
 
 #logo {
@@ -33,7 +33,7 @@ body {
 }
 
 .nav-line {
-    border-bottom: solid rgba(208, 214, 249, 0.2) 0.05px;
+    border-bottom: solid rgba(208, 214, 249, 0.2) 0.1px;
     width: 40em;
     position: relative;
     height: 0.01px;
@@ -57,7 +57,7 @@ body {
 @supports (backdrop-filter: blur(10px)) {
 .ul-nav {
     background: rgba(255, 255, 255, 4%);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(20px);
     }
 }
 
@@ -85,7 +85,7 @@ li:hover {
     border-bottom: solid rgba(255, 255, 255, 0.5) 3px;
 }
 
-li.active {
+li:active {
     border-bottom: solid #ffffff 3px;
 }
 
