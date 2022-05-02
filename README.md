@@ -26,9 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](.assets/home-page.jpg)
-![Tablet view](.assets/tablet-view-2.jpg)
-![Mobile view](.assets/mobile-view-2.jpg)
+DESKTOP VIEW
+![Desktop view](https://user-images.githubusercontent.com/83277559/166298716-557e6f93-c632-40b9-b685-99caed65db5a.jpg)
+TABLET VIEW
+![Tablet view](https://user-images.githubusercontent.com/83277559/166298933-830059aa-3162-4265-9855-656149ffb383.jpg)
+
+MOBILE VIEW
+![Mobile view](https://user-images.githubusercontent.com/83277559/166298461-1f0e692b-839c-47b6-afea-dcad8af8f5de.jpg)
 
 ### Links
 
