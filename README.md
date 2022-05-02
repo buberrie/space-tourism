@@ -28,7 +28,7 @@ Users should be able to:
 
 ![Desktop view](./screenshot.jpg)
 ![Tablet view](./screenshot.jpg)
-![Mobile view](./screenshot.jpg)
+![Mobile view](C:\Users\USER\Downloads\FireShot\mobile-view.jpg)
 
 ### Links
 
@@ -47,9 +47,8 @@ Users should be able to:
 
 ### What I learned
 
-```js
 Learnt alot on how to use javascript to change the the content display on a screen at a time using addAttribute and removeAttribute functionalities, it was really fun.
-```
+
 
 ## Author
 
