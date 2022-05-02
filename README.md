@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](.assets/destop-view.jpg)
-![Tablet view](.assets/tablet-view.jpg)
-![Mobile view](.assets/mobile-view.jpg)
+![Desktop view](.assets/home-page.jpg)
+![Tablet view](.assets/tablet-view-2.jpg)
+![Mobile view](.assets/mobile-view-2.jpg)
 
 ### Links
 
