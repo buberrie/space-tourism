@@ -10,7 +10,6 @@
 
 body {
     background-image: url(./assets/crew/background-crew-desktop.jpg);
-    position: absolute;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;   
@@ -87,13 +86,13 @@ a {
     border-bottom: solid rgba(255, 255, 255, 0.5) 3px;
 }
 
-.child-nav.active {
+.active {
     border-bottom: solid #ffffff 3px;
 }
 
 .a-nav {
     position: relative;
-    top: 30px;
+    top: 35px;
     font-family: 'barlow condensed', sans-serif;
     font-size: 16px;
     font-weight: 0.8em;
@@ -485,8 +484,8 @@ a {
             border-bottom: 0;
         }
         
-        .child-nav.active {
-            border-bottom: 0;
+        .active {
+            border-bottom: none;
         }
 
         .ul-nav.active {
