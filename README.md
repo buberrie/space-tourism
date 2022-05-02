@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](./screenshot.jpg)
-![Tablet view](./screenshot.jpg)
-![Mobile view](C:\Users\USER\Downloads\FireShot\mobile-view.jpg)
+![Desktop view](.assets/destop-view.jpg)
+![Tablet view](.assets/tablet-view.jpg)
+![Mobile view](.assets/mobile-view.jpg)
 
 ### Links
 
