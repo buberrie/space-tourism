@@ -255,6 +255,27 @@ a {
     font-weight: lighter;
 }
 
+.parent-footer {
+    position: relative;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 100px;
+}
+
+.a-footer {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #fff;
+}
+
+.child-footer {
+    margin: 10px;
+}
+
 @media (max-width:1000px) {
     body {
         background-image: url(./assets/destination/background-destination-tablet.jpg);
@@ -698,5 +719,18 @@ a {
             position: relative;
             right: 0;
         }
+    
+         .parent-footer {
+        position: none;
+        margin-top: 0;
+    }
+
+    .a-footer {
+        font-size: 16px;
+    }
+    
+    .child-footer {
+        margin: 5px 10px;
+    }
         
 }   }
