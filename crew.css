@@ -233,6 +233,7 @@ a {
 
 .parent-footer {
     position: relative;
+    background-color: rgb(19, 19, 39);
     list-style: none;
     display: flex;
     justify-content: center;
@@ -692,8 +693,7 @@ a {
         }
     
         .parent-footer {
-            position: none;
-        margin-top: 0;
+        margin-top: 15px;
     }
     
     .a-footer {
