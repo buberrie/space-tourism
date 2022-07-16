@@ -274,7 +274,7 @@ a {
 }
 
 .child-footer {
-    margin: 10px;
+    margin: 25px 10px;
 }
 
 @media (max-width:1000px) {
@@ -730,7 +730,7 @@ a {
     }
     
     .child-footer {
-        margin: 5px 10px;
+        margin: 15px 10px;
     }
         
 }   }
