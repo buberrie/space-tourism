@@ -203,7 +203,7 @@ li:hover {
 }
 
 .child-footer {
-    margin: 10px;
+    margin: 25px 10px;
 }
 
 @media (max-width:1000px) {
@@ -519,7 +519,7 @@ li:hover {
         }
     
          .parent-footer {
-        margin-top: 750px;
+        margin-top: 650px;
     }
 
     .a-footer {
@@ -527,7 +527,7 @@ li:hover {
     }
     
     .child-footer {
-        margin: 5px 10px;
+        margin: 25px 10px;
     }
     }
 }
