@@ -219,6 +219,27 @@ a {
     display: none;
 }
 
+.parent-footer {position: relative;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(19, 19, 39);
+    padding: 0;
+    margin: 0;
+    margin-top: 100px;
+}
+
+.a-footer {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #fff;
+}
+
+.child-footer {
+    margin:25px 10px;
+}
+
 @media (max-width: 950px) {
     body {
         background-image: url(./assets/technology/background-technology-tablet.jpg);
@@ -565,4 +586,17 @@ a {
             width: 80%;
             margin: 0 auto;
         }
+        
+        .parent-footer {
+        position: none;
+        margin-top: 0;
+    }
+
+    .a-footer {
+        font-size: 16px;
+    }
+    
+    .child-footer {
+        margin: 15px 10px;
+    }
     }
